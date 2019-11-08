@@ -33,7 +33,7 @@
     <legal><![CDATA[[INFO] Any downloads listed may be third party software.  Microsoft grants you no rights for third party software.]]></legal>
     
     <!-- Version properties -->
-    <jackson.version>2.9.6</jackson.version>
+    <jackson.version>2.10.0</jackson.version>
     
     <!-- Testing properties -->
     <testMode>playback</testMode>
